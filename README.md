@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @abhay029
-- 👀 I’m interested in data science
+- 👀 I’m interested in ...
 - 🌱 I’m currently learning data structures
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: abhay029
